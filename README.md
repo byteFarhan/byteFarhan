@@ -8,7 +8,7 @@
 
 ---
 
-Hey there! 👋 I'm Farhan Mazuder, a front-end developer specializing in the MERN stack. With a passion for crafting seamless user experiences, I thrive on creating clean, efficient code that brings ideas to life. I'm always exploring new technologies and collaborating with the developer community to stay at the forefront of innovation. Let's connect and build something awesome together! 🚀
+Hey there! 👋 I'm Farhan Mazumder, a front-end developer specializing in the MERN stack. With a passion for crafting seamless user experiences, I thrive on creating clean, efficient code that brings ideas to life. I'm always exploring new technologies and collaborating with the developer community to stay at the forefront of innovation. Let's connect and build something awesome together! 🚀
 
 Skills: HTML/ CSS/ Tailwind/ JS/ REACT/ MongoDB/Firebase
 
