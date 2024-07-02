@@ -141,10 +141,10 @@
 ## 📊 GitHub Stats:
 
 <div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bytefarhan&theme=midnight_purple"/><br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=bytefarhan&theme=midnight-purple&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=700"/><br/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bytefarhan&theme=midnight_purple"/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bytefarhan&theme=midnight_purple"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bytefarhan&theme=react"/><br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=bytefarhan&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=700"/><br/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bytefarhan&theme=react"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bytefarhan&theme=react"/>
 </div>
 
 <!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ashik-Himel&theme=midnight_purple)<br/>
