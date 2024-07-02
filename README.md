@@ -28,11 +28,16 @@ Skills: HTML/ CSS/ Tailwind/ JS/ REACT/ MongoDB/Firebase
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bytefarhan)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=bytefarhan&show_icons=true)
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=bytefarhan&show_icons=true) -->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bytefarhan&show_icons=true&theme=onedark)
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=bytefarhan)
+## :chart_with_upwards_trend: Current Stats
+
+<br />
+<p align="center">
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=bytefarhan&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
+</p>
 
 ## :mailbox: Reach me out
 
