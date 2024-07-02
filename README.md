@@ -8,13 +8,24 @@
 
 ✨ I'm a front-end developer specializing in the MERN stack. With a passion for crafting seamless user experiences, I thrive on creating clean, efficient code that brings ideas to life. I'm always exploring new technologies and collaborating with the developer community to stay at the forefront of innovation. Let's connect and build something awesome together! 🚀
 
-Skills: HTML/ CSS/ Tailwind/ JS/ REACT/ MongoDB/Firebase
+<h2 align="left">👀 Current overview</h2>
+- 🔭 I’m currently working on **Web Application**
 
+- 🌱 I’m currently learning **Node JS & JavaScript Problem Solving**
+
+- 👯 I’m looking to collaborate on **Open Source Projects**
+
+- 💬 Ask me about **React,JavaScript**
+
+- 📫 How to reach me **farhanmazumder0@gmail.com**
+
+- ⚡ Fun fact **I love coding and creating awesome websites**
+<!--
 - 🌱 I’m currently learning MERN
 - 🤔 I’m looking for help with web development
 - 💬 Ask me about Javascript
-- 📫 How to reach me: farhanmazumder0@gmail.com
-
+- 📫 How to reach me: farhanmazumder0@gmail.com -->
+</br>
 <!-- <h2 align="left">Connect with me:</h2>
 <p align="left">
 
