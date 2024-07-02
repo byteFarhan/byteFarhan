@@ -2,7 +2,7 @@
 
 #### Crafting Exceptional Experiences with MERN - Frontend Aficionado
 
-![Crafting Exceptional Experiences with MERN - Frontend Aficionado](https://i.postimg.cc/HLbYYjy8/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f7473.gif)
+<!-- ![Crafting Exceptional Experiences with MERN - Frontend Aficionado](https://i.postimg.cc/HLbYYjy8/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f7473.gif) -->
 
 ## **About Me:**
 
