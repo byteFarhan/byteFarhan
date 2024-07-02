@@ -15,33 +15,27 @@ Skills: HTML/ CSS/ Tailwind/ JS/ REACT/ MongoDB/Firebase
 - 💬 Ask me about Javascript
 - 📫 How to reach me: farhanmazumder0@gmail.com
 
-<h2 align="left">Connect with me:</h2>
+<!-- <h2 align="left">Connect with me:</h2>
 <p align="left">
 
 <a href="https://linkedin.com/in/farhan-mazumder/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="farhan-mazumder" height="30" width="40" /></a><a href="https://twitter.com/bytefarhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bytefarhan" height="30" width="40" /></a>
 <a href="https://www.fb.com/bytefarhan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bytefarhan" height="30" width="40" /></a>
 <a href="https://instagram.com/bytefarhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bytefarhan" height="30" width="40" /></a>
 
-</p>
+</p> -->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=bytefarhan&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=bytefarhan&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bytefarhan)](https://github.com/anuraghazra/github-readme-stats)
+![Profile Trophy](https://github-profile-trophy.vercel.app/?username=bytefarhan&theme=onestar)
 
-<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=bytefarhan&show_icons=true) -->
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bytefarhan&show_icons=true&theme=onedark)
-
-## :chart_with_upwards_trend: Current Stats
+<!-- ## 📊 Current Stats
 
 <br />
 <p align="center">
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=bytefarhan&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
-</p>
+</p> -->
 
 ## :mailbox: Reach me out
-
-<br/>
 
 **_<p align="center"> [<img height="55" src="./images/icons/website.png">](https://bytefarhan.web.app/)[<img height="55" src="./images/icons/facebook.png">](https://www.facebook.com/bytefarhan)[<img height="55" src="./images/icons/linkedin.png">](https://www.linkedin.com/in/farhan-mazumder) </p>_**
 
@@ -131,3 +125,23 @@ Skills: HTML/ CSS/ Tailwind/ JS/ REACT/ MongoDB/Firebase
     </td>
   </tr>
 </table>
+</br>
+
+## 📊 GitHub Stats:
+
+<div align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bytefarhan&theme=midnight_purple"/><br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=bytefarhan&theme=midnight-purple&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=700"/><br/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bytefarhan&theme=midnight_purple"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bytefarhan&theme=midnight_purple"/>
+</div>
+
+<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ashik-Himel&theme=midnight_purple)<br/>
+![](https://github-readme-streak-stats.herokuapp.com?user=Ashik-Himel&theme=midnight-purple&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=700)<br/>
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ashik-Himel&theme=midnight_purple)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ashik-Himel&theme=midnight_purple)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bytefarhan&theme=midnight_purple)<br/>
+![](https://github-readme-streak-stats.herokuapp.com?user=bytefarhan&theme=midnight-purple&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=700)<br/>
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bytefarhan&theme=midnight_purple)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bytefarhan&theme=midnight_purple) -->
