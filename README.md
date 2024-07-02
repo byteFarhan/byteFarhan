@@ -9,6 +9,7 @@
 ✨ I'm a front-end developer specializing in the MERN stack. With a passion for crafting seamless user experiences, I thrive on creating clean, efficient code that brings ideas to life. I'm always exploring new technologies and collaborating with the developer community to stay at the forefront of innovation. Let's connect and build something awesome together! 🚀
 
 <h2 align="left">👀 Current overview</h2>
+
 - 🔭 I’m currently working on **Web Application**
 
 - 🌱 I’m currently learning **Node JS & JavaScript Problem Solving**
