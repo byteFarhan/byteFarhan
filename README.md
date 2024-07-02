@@ -15,28 +15,106 @@ Skills: HTML/ CSS/ Tailwind/ JS/ REACT/ MongoDB/Firebase
 - 💬 Ask me about Javascript
 - 📫 How to reach me: farhanmazumder0@gmail.com
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/bytefarhan) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/bytefarhan/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/bytefarhan)
+<h2 align="left">Connect with me:</h2>
+<p align="left">
 
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=bytefarhan)](https://github.com/ryo-ma/github-profile-trophy) -->
+<a href="https://linkedin.com/in/farhan-mazumder/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="farhan-mazumder" height="30" width="40" /></a><a href="https://twitter.com/bytefarhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bytefarhan" height="30" width="40" /></a>
+<a href="https://www.fb.com/bytefarhan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bytefarhan" height="30" width="40" /></a>
+<a href="https://instagram.com/bytefarhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bytefarhan" height="30" width="40" /></a>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=bytefarhan)](https://github.com/ryo-ma/github-profile-trophy)
+</p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=bytefarhan&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bytefarhan)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=bytefarhan&show_icons=true)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bytefarhan&show_icons=true&theme=onedark)
+
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=bytefarhan)
 
-### :bar_chart: [Coding time in the last month](https://github.com/muety/wakapi)
+## :computer: Technologies that I know
 
-<!--START_SECTION:waka-->
-
-```txt
-Rust            34 hrs 12 mins  🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   36.78 %
-Markdown        20 hrs 25 mins  🟩🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   21.95 %
-Typst           10 hrs 57 mins  🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   11.77 %
-MATLAB          4 hrs 36 mins   🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   04.94 %
-Python          2 hrs 59 mins   🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   03.21 %
-```
-
-<!--END_SECTION:waka-->
+<table align="center">
+  <tr>
+    <!-- <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="60" height="60" />
+      <br>TypeScript
+    </td> -->
+     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="60" height="60" />
+      <br>JavaScript
+    </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=react" alt="React" width="60" height="60" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="60" height="60" />
+      <br>MongoDB
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="60" height="60" />
+      <br>Node JS
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="60" height="60" />
+      <br>Rest API
+    </td>
+    <!-- <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="60" height="60" />
+      <br>Next.js
+    </td> -->
+     <!-- <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postgresql" width="60" height="60" alt="PostgreSQL" />
+      <br>PostgreSQL
+    </td> -->
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="60" height="60" />
+      <br>Express 
+    </td>
+   <!-- <td align="center" width="96">
+        <img src="./images/icons/shadcnui.png" alt="shadcn/ui logo" width="60" height="60" />
+      <br>shadcn/ui
+   </td> -->
+  </tr>
+  <tr>
+   <!-- <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=react" alt="React" width="60" height="60" />
+      <br>React
+    </td> -->
+   <!-- <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=redux" alt="Redux" width="60" height="60" />
+      <br>Redux
+    </td> -->
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=firebase" width="60" height="60" alt="Firebase" />
+      <br>Firebase
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=figma" width="60" height="60" alt="Figma" />
+      <br>Figma
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=tailwindcss" alt="Tailwind CSS" width="60" height="60" />
+      <br>Tailwind
+    </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="60" height="60" alt="Bootstrap" />
+      <br>Bootstrap
+    </td>
+    <!-- <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=scss" width="60" height="60" alt="CSS" />
+      <br>Sass
+    </td> -->
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=css" width="60" height="60" alt="CSS" />
+      <br>CSS3
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=html" width="60" height="60" alt="HTML5" />
+      <br>HTML5
+    </td>
+  </tr>
+</table>
