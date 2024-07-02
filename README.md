@@ -34,6 +34,14 @@ Skills: HTML/ CSS/ Tailwind/ JS/ REACT/ MongoDB/Firebase
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=bytefarhan)
 
+## :mailbox: Reach me out
+
+<br/>
+
+**_<p align="center"> [<img height="55" src="./images/icons/website.png">](https://bytefarhan.web.app/)[<img height="55" src="./images/icons/facebook.png">](https://www.facebook.com/bytefarhan)[<img height="55" src="./images/icons/linkedin.png">](https://www.linkedin.com/in/farhan-mazumder) </p>_**
+
+<br/>
+
 ## :computer: Technologies that I know
 
 <table align="center">
