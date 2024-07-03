@@ -10,7 +10,7 @@
 
 <h2 align="left">👀 Current overview</h2>
 
-- 🔭 I’m currently working on **Web Application**
+- 🔭 I’m currently working on **Web Applications**
 
 - 🌱 I’m currently learning **Node JS & JavaScript Problem Solving**
 
@@ -142,8 +142,8 @@
 ## 📊 GitHub Stats:
 
 <div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bytefarhan&theme=react"/><br/>
     <img src="https://github-readme-streak-stats.herokuapp.com?user=bytefarhan&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=700"/><br/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bytefarhan&theme=react"/><br/>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bytefarhan&theme=react"/>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bytefarhan&theme=react"/>
 </div>
